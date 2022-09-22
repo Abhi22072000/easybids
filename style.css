@@ -1,0 +1,14 @@
+*{
+ font-family: 'poppins';
+}
+#navbar__logo{
+    width: 100px;
+    height:100px;
+}
+.ed__banner{
+    background: linear-gradient(125deg,#3370e3,#0adb99);
+    opacity: 1;
+    height: 100vh;
+    overflow: hidden;
+}
+
